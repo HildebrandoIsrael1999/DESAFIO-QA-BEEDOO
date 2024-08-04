@@ -1,9 +1,16 @@
-# DESAFIO-QA-BEEDOO
-Listagem cursos cadastrados 
-Como usuário
-eu quero listar cursos cadastrados
-para conseguir acessar os cursos.
-Critérios de aceitação:
+# DESAFIO-QA-BEEDOO  
+
+Funcionalidade:*Listagem cursos cadastrados*   
+
+Como usuário  
+
+eu quero listar cursos cadastrados  
+
+para conseguir acessar os cursos.    
+
+
+Critérios de aceitação:  
+
 O usuário pode navegar até a aba "Listar Cursos".
 O sistema deve exibir uma lista de todos os cursos cadastrados.
 A lista de cursos deve incluir informações básicas, como:
@@ -11,30 +18,40 @@ Nome do curso
 Descrição do curso
 Data de início
 Duração
-Quantidade de vagas
+Quantidade de vagas  
+
 Decisões Tomadas
-Definição do Objetivo Principal:
+Definição do Objetivo Principal:  
+
 
 Decisão: O objetivo principal é listar os cursos cadastrados.
-Fundamento: Isso é essencial para permitir que os usuários visualizem e acessem os cursos disponíveis na plataforma.
+Fundamento: Isso é essencial para permitir que os usuários visualizem e acessem os cursos disponíveis na plataforma.  
+
 Identificação do Usuário:
 
 Decisão: A história foi escrita na perspectiva do usuário.
-Fundamento: Entender quem são os usuários e suas necessidades é crucial para criar histórias relevantes e eficazes.
+Fundamento: Entender quem são os usuários e suas necessidades é crucial para criar histórias relevantes e eficazes.  
+
 Estrutura da História:
 
 Decisão: Usar a estrutura "Como um [tipo de usuário], Eu quero [ação], Para que [benefício]".
-Fundamento: Esta estrutura é amplamente utilizada e aceita em metodologias ágeis, pois ajuda a esclarecer o propósito e o benefício da funcionalidade.
+Fundamento: Esta estrutura é amplamente utilizada e aceita em metodologias ágeis, pois ajuda a esclarecer o propósito e o benefício da funcionalidade.  
+
 Critérios de Aceitação:
 
 Decisão: Incluir critérios de aceitação claros e específicos.
 Fundamento: Os critérios de aceitação ajudam a definir o que é necessário para que a história seja considerada completa e bem-sucedida. Eles fornecem uma base para testes
 
-*Cadastrar curso*
-Como usuário
-eu quero cadastrar um curso
-para conseguir acessá-lo
-Critérios de Aceitação:
+Funcionalidade:*Cadastrar curso*  
+
+Como usuário  
+
+eu quero cadastrar um curso  
+
+para conseguir acessá-lo  
+
+Critérios de Aceitação:  
+
 Acesso à funcionalidade:
 O usuário pode navegar até a aba "Cadastrar Curso".
 Formulário de cadastro:
@@ -60,7 +77,8 @@ Persistência dos dados:
 O curso cadastrado deve ser persistido no banco de dados e estar disponível para visualização e acesso em sessões futuras.
 Feedback para o usuário:
 O sistema deve fornecer feedback adequado para o usuário em caso de falha no cadastro (e.g., erro de rede, problema de servidor)
-Definição do Objetivo Principal:
+Definição do Objetivo Principal:  
+
 
 Decisão: O objetivo principal é permitir que o usuário cadastre um novo curso.
 Fundamento: O cadastro de cursos é uma funcionalidade essencial para qualquer sistema de gestão de cursos, permitindo que novos conteúdos sejam adicionados à plataforma.
@@ -71,11 +89,16 @@ Fundamento: Compreender as necessidades e os objetivos do usuário ajuda a criar
 Estrutura da História:
 
 Decisão: Usar a estrutura "Como um [tipo de usuário], Eu quero [ação], Para que [benefício]".
-Fundamento: Esta estrutura é amplamente utilizada em metodologias ágeis para garantir que o propósito e o benefício da funcionalidade estejam claros.
+Fundamento: Esta estrutura é amplamente utilizada em metodologias ágeis para garantir que o propósito e o benefício da funcionalidade estejam claros.  
 
-Como usuário
-eu quero excluir um curso
-para acessar somente os cursos do meu interesse.
+Funcionalidade: Excluir curso  
+
+Como usuário  
+
+eu quero excluir um curso  
+
+para acessar somente os cursos do meu interesse.  
+
 
 Critérios de Aceitação:
 Acesso à funcionalidade:
@@ -97,9 +120,10 @@ Se houver um erro ao tentar excluir o curso (e.g., problema de rede, problema de
 Atualização da lista:
 A lista de cursos deve ser atualizada automaticamente para refletir a exclusão do curso sem a necessidade de recarregar a página.
 
-e garantem que todas as partes interessadas tenham a mesma compreensão dos requisitos.
+e garantem que todas as partes interessadas tenham a mesma compreensão dos requisitos.  
 
-Definição do Objetivo Principal:
+Definição do Objetivo Principal:  
+
 
 Decisão: O objetivo principal é permitir que o usuário exclua um curso.
 Fundamento: A exclusão de cursos é essencial para que os usuários possam manter sua lista de cursos organizada e relevante, removendo cursos que não são mais de interesse.
