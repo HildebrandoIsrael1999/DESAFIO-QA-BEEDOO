@@ -1,4 +1,6 @@
-# DESAFIO-QA-BEEDOO  
+LINK COM CENÁRIO E CASOS DE TESTES:https://docs.google.com/document/d/1oJDqCUI-7KDk2ud2sK25XiOk_2N8Zt3a/edit?usp=sharing&ouid=110975868211766159267&rtpof=true&sd=true  
+
+  # DESAFIO-QA-BEEDOO  
 
 Funcionalidade:*Listagem cursos cadastrados*   
 
