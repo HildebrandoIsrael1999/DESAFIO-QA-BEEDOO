@@ -1,4 +1,6 @@
 LINK COM CENÁRIO E CASOS DE TESTES:https://docs.google.com/document/d/1oJDqCUI-7KDk2ud2sK25XiOk_2N8Zt3a/edit?usp=sharing&ouid=110975868211766159267&rtpof=true&sd=true  
+LINK COM RELATORIO DE BUGS:https://docs.google.com/document/d/1ul-PyxaIgbQaypqRWmrNpXe1QOluzocw/edit?usp=sharing&ouid=103682861072724121177&rtpof=true&sd=true  
+LINK COM EVIDÊNCIAS:https://drive.google.com/drive/u/0/folders/1aWqgCJfyvusIxt6YlWbvpq8sJsISQHCv  
 
   # DESAFIO-QA-BEEDOO  
 
